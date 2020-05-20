@@ -6,17 +6,17 @@
 body{
     font-family: arial;
     margin: 0;
-    background: #eeeeee;
+    background: #eee;
 }
 
 #wrapper{
     width: 980px;
     margin: 0  auto;
-    background: #b91a1a;
+    background: #ffffff;
 }
 
 #main-navigation {
-    background: #1818;
+    background: rgba(136, 104, 17, 0.533);
     padding: 10px;
 }
 
